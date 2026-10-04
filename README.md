@@ -1,6 +1,8 @@
 
 PAPER ID - 10806
+
 TITLE: A Variable Bandwidth Low Pass Filter Approach based Power Sharing and Voltage Regulation in Hybrid Energy Storage Systems for DC Microgrid Applications
+
 Authors:
 Bomma Siddhartha, Research Scholar, Department of Electrical Engineering, National Institute of Technology, Warangal, E-mail: bs22eer2r03@student.nitw.ac.in .
 
