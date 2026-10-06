@@ -1,7 +1,6 @@
+A Variable Bandwidth Low Pass Filter Approach based Power Sharing and Voltage Regulation in Hybrid Energy Storage Systems for DC Microgrid Applications
 
 PAPER ID - 10806
-
-TITLE: A Variable Bandwidth Low Pass Filter Approach based Power Sharing and Voltage Regulation in Hybrid Energy Storage Systems for DC Microgrid Applications
 
 Authors:
 
