@@ -5,12 +5,9 @@
 ## Authors:
 * Bomma Siddhartha
 * Prof. Udaya bhasker Manthati
-
-
-, Research Scholar, Department of Electrical Engineering, National Institute of Technology, Warangal, E-mail: bs22eer2r03@student.nitw.ac.in .
-
-Prof. Udaya bhasker Manthati, IEEE member, Associate Professor, Department of Electrical Engineering, National Institute of Technology, Warangal, E-mail: ub@nitw.ac.in
-
+  
+  Affiliation:
+  Department of Electrical Engineering, NIT Warangal.
 ---
 ## 📁 Included scripts
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
