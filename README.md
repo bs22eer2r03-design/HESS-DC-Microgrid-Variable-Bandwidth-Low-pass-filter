@@ -13,10 +13,22 @@ Prof. Udaya bhasker Manthati, IEEE member, Associate Professor, Department of El
 
 ---
 ## 📁 Included scripts
+This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
 
+| Script         | Related Figure(s) | Description | 
+|-----------------|----------|----------|
+| Baseline        | 82.3%    | 0.81     |
+| Our Model       | **91.7%**| **0.90** | 
+| Ablation (no X) | 88.1%    | 0.86     | 
+
+---
+## 📁 Required files
 
 Description of Files:
 The uploaded files include MATLAB scripts used to generate the analytical and simulation results presented in the manuscript. Block diagram files corresponding to the developed models are provided to illustrate the system architecture and control implementation. In addition, simulation output images. These materials were used for manuscript preparation and facilitate a clear understanding, reproducibility, and verification of the reported results.
+
+---
+## 💻 Requirements
 
 Software Requirements:
 MATLAB R2020b or later.
@@ -32,5 +44,6 @@ The MATLAB script files in matlab folder are executed to perform the stability a
 
 Further  experimentation iscarried out using Dspace 1104 , and the responses captured from the relevant scopes are used to generate Figs. 15, 16, 17, and 18 illustrating the dynamic performance of the proposed system under different operating conditions.
 
-Contact:
-For questions or replication of results: bs22eer2r03@student.nitw.ac.in , ub@nitw.ac.in .
+---
+## ✉️ contact
+bs22eer2r03@student.nitw.ac.in
