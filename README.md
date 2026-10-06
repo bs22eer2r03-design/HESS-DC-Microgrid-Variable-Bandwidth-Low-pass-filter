@@ -9,10 +9,11 @@
 
 , Research Scholar, Department of Electrical Engineering, National Institute of Technology, Warangal, E-mail: bs22eer2r03@student.nitw.ac.in .
 
-Prof. Udaya bhasker Manthati, IEEE member, Associate Professor, Department of Electrical Engineering, National Institute of Technology, Warangal, E-mail: ub@nitw.ac.in .
+Prof. Udaya bhasker Manthati, IEEE member, Associate Professor, Department of Electrical Engineering, National Institute of Technology, Warangal, E-mail: ub@nitw.ac.in
 
-About Repository:
-This repository contains the MATLAB files  used for our paper titled "A Variable Bandwidth Low Pass Filter Approach based Power Sharing and Voltage Regulation in Hybrid Energy Storage Systems for DC Microgrid Applications".
+---
+## 📁 Included scripts
+
 
 Description of Files:
 The uploaded files include MATLAB scripts used to generate the analytical and simulation results presented in the manuscript. Block diagram files corresponding to the developed models are provided to illustrate the system architecture and control implementation. In addition, simulation output images. These materials were used for manuscript preparation and facilitate a clear understanding, reproducibility, and verification of the reported results.
