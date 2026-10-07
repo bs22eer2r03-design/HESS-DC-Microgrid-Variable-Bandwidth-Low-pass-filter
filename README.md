@@ -16,8 +16,14 @@ This repository contains all scripts required to reproduce the simulation and nu
 |----------------------------|-------------------|----------|
 | Bat_controller_open.m       | Fig. 8            | Battery bode plot     |
 | overall_battery_open.m      | Fig. 9            | Overll system bode plot | 
-| SC_controller_open.m        | Fig. 7              |Supercapacitor bode plot     | 
+| SC_controller_open.m        | Fig. 7            |Supercapacitor bode plot | 
+|VB_HESS_Current_Reference.m   |Fig.10 to Fig 13  | to be run in parallel with simulink|
 
+| Simulink (HESS_VBWF.slx)                    | Related Figure(s) | Description | 
+|----------------------------|-------------------|----------|
+| scope1       | Fig. 10 (a)(b)          | DC bus voltage   |
+| scope2      | Fig. 11                  | PV, battery, SC, Load currents | 
+| scope3       | Fig. 12-13              | Reference supercapacitor currents | 
 ---
 ## 📁 Required files
 
