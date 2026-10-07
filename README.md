@@ -12,11 +12,11 @@
 ## 📁 Included scripts
 This repository contains all scripts required to reproduce the simulation and numerical results presented in the article.
 
-| Script         | Related Figure(s) | Description | 
-|-----------------|----------|----------|
-| Baseline        | 82.3%    | 0.81     |
-| Our Model       | **91.7%**| **0.90** | 
-| Ablation (no X) | 88.1%    | 0.86     | 
+| Script                     | Related Figure(s) | Description | 
+|----------------------------|-------------------|----------|
+| Bat_controller_open.m       | Fig. 8            | Battery bode plot     |
+| overall_battery_open.m      | Fig. 9            | Overll system bode plot | 
+| SC_controller_open.m        | Fig. 7              |Supercapacitor bode plot     | 
 
 ---
 ## 📁 Required files
