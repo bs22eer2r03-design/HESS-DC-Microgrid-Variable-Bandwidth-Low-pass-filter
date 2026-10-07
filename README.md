@@ -23,7 +23,8 @@ This repository contains all scripts required to reproduce the simulation and nu
 |------------------------------|-------------------|-------------------------|
 | scope1                       | Fig. 10 (a)(b)    | DC bus voltage             |
 | scope2                       | Fig. 11           | PV, battery, SC, Load currents | 
-| scope3                       | Fig. 12-13        | Reference supercapacitor currents | 
+| control/scope4               | Fig. 12-13        | Reference supercapacitor currents | 
+
 ---
 ## 📁 Required files
 
